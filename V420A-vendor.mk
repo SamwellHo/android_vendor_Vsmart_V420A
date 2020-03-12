@@ -159,7 +159,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     embms \
     WfdService \
-    TimeService \
     QtiTelephonyService \
     ims \
     qcrilmsgtunnel \
